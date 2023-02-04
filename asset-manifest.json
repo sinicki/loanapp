@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/loanapp/static/css/main.17529765.css",
-    "main.js": "/loanapp/static/js/main.56bd97ba.js",
+    "main.js": "/loanapp/static/js/main.ded7424b.js",
     "static/js/787.903fcd7a.chunk.js": "/loanapp/static/js/787.903fcd7a.chunk.js",
     "static/media/loanlylogo3.png": "/loanapp/static/media/loanlylogo3.016e4bf2dca53a3193db.png",
     "static/media/loanlylogo.png": "/loanapp/static/media/loanlylogo.1358a84f457acbd84f16.png",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/loanapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/loanapp/index.html",
     "main.17529765.css.map": "/loanapp/static/css/main.17529765.css.map",
-    "main.56bd97ba.js.map": "/loanapp/static/js/main.56bd97ba.js.map",
+    "main.ded7424b.js.map": "/loanapp/static/js/main.ded7424b.js.map",
     "787.903fcd7a.chunk.js.map": "/loanapp/static/js/787.903fcd7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17529765.css",
-    "static/js/main.56bd97ba.js"
+    "static/js/main.ded7424b.js"
   ]
 }
