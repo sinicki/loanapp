@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/loanapp/static/css/main.17529765.css",
-    "main.js": "/loanapp/static/js/main.9402fb81.js",
+    "main.css": "/loanapp/static/css/main.5b1d8e65.css",
+    "main.js": "/loanapp/static/js/main.5bced6af.js",
     "static/js/787.903fcd7a.chunk.js": "/loanapp/static/js/787.903fcd7a.chunk.js",
     "static/media/loanlylogo3.png": "/loanapp/static/media/loanlylogo3.016e4bf2dca53a3193db.png",
     "static/media/loanlylogo.png": "/loanapp/static/media/loanlylogo.1358a84f457acbd84f16.png",
     "static/media/loanlylogo2.png": "/loanapp/static/media/loanlylogo2.7c5e2c464be0b7f2cc20.png",
     "static/media/logo.svg": "/loanapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/loanapp/index.html",
-    "main.17529765.css.map": "/loanapp/static/css/main.17529765.css.map",
-    "main.9402fb81.js.map": "/loanapp/static/js/main.9402fb81.js.map",
+    "main.5b1d8e65.css.map": "/loanapp/static/css/main.5b1d8e65.css.map",
+    "main.5bced6af.js.map": "/loanapp/static/js/main.5bced6af.js.map",
     "787.903fcd7a.chunk.js.map": "/loanapp/static/js/787.903fcd7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17529765.css",
-    "static/js/main.9402fb81.js"
+    "static/css/main.5b1d8e65.css",
+    "static/js/main.5bced6af.js"
   ]
 }
